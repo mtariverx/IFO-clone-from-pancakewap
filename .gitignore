@@ -1,0 +1,7 @@
+node_modules
+contract_upload
+artifacts
+secret.json
+tmp.txt
+yarn.lock
+package-lock.json

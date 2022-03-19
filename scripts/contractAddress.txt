@@ -1,0 +1,37 @@
+-BSC testnet
+Cake Contract deployed to: 0x6e23A056254c16e1253A9043460b5fCBD01fDA43
+Receipt Contract deployed to: 0x327b0F261bF66862e4e4A6ea10280f93B515C9fd
+MasterCheif Contract Contract deployed to: 0x2e7A08A4717afDE03Aaa5Dc211026f16A8aB92a5
+****
+Cake Contract deployed to: 0x276c7CDEc273bdf4972835798C03BC019056c01b
+Receipt Contract deployed to: 0x9044eE3129e37742902A0fF80d08787b3b4528e3
+MasterCheif Contract Contract deployed to: 0x1D3a83727149c04b99B3e31227EeB4cd2d7b090d
+-rinkeby testnet
+Cake Contract deployed to: 0xf058b76404881291AC6aEB2c1DFED9C700246Fd0
+Receipt Contract deployed to: 0x93cD26149994307d334eF8A65192b8ED58Ad24aa
+MasterCheif Contract Contract deployed to: 0x7542028FB5e96c4c3B918a6e56F6FdfDB7A38d61
+Contract deployed to: 0xAb2bE583868b0c77A959c024d155dd86155767b4
+---
+Cake Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3Receipt Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+MasterCheif Contract Contract deployed to: 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0
+Contract deployed to: 0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9 
+--bsc test net
+Cake Contract deployed to: 0x7fAC5F97A9953200E34d3C8a97C5065fA89E6167
+_receiptCakeToken :  0x72d5fdAbb0cB365A4ace6D00d14e0eB71A091e4d
+Receipt Contract deployed to: 0x1723468D39F1bF4fd43432928e173e672282ffE1
+_masterChefCakeToken :  0x6D97c00F3EBfF67300Dd7c2A7f4E1CFcc2015c04
+MasterCheif Contract Contract deployed to: 0xd85B19E1A18c42BE479e52eEDA25654a2aF16138
+
+
+
+--remix
+receipt
+syrupbar: 0x2AAafC357AA43e8c4820A2fDC72a52f18A1e588a
+
+Contract deployed to: 0xC119bA970F3685a8e3eB5C4210B84d0Ee27356dA
+
+bsc api
+2AM6X58M3UW8AV3FK94V5NCY5ZD77RRU67
+
+verified contractAddress
+https://testnet.bscscan.com/address/0xC119bA970F3685a8e3eB5C4210B84d0Ee27356dA#code
